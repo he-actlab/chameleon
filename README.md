@@ -13,7 +13,7 @@ __Overview__
 
 __Results__
 
-![Results](images/iter_vs_flops_zoom_oval_complete.png)
+![Results](images/iter_vs_flops_zoom_complete.png)
 
 __Instructions__
 
