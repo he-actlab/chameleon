@@ -16,6 +16,7 @@ __Results__
 ![Results](images/iter_vs_flops_zoom_oval_complete.png)
 
 __Instructions__
+
 1. Clone TVM.  
 2. Copy Chameleon to the TVM directory (python/tvm), this package can be used like the AutoTVM.  
 3. For rest of the process, follow TVM.
